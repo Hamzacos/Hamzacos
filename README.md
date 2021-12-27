@@ -1,19 +1,9 @@
 
-# Project Title
-
-
-
-## API Reference
-
-#### Get all items
-
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
+👋 Hi, I’m @hamza_LaQraa
+👀 I’m interested in ...
+🌱 I’m currently learning ...
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
 
 #### Get item
 
