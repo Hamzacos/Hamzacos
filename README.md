@@ -47,6 +47,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 📊 Analytics 🤖 Artificial Intelligence 📝 Blog 📱 Contact ✏ Contribute ☁ Cloud ⚡ Database  🖍Design 
 📚 Education 🤜 Group 🔌 IDE Plugin 👩‍💻 Languages 🧐 Linters 👨‍💻 Office ⚙️ ORM 💻 OS 👨 Social
 🎶 Sound  💻 Terminal  🌐 Web Browsers  ⏱️ Workflow Platforms  💻 Workspace Spec  🔁 Dynamic
+
 ## Contributing
 
 Contributions are always welcome!
@@ -70,16 +71,7 @@ To deploy this project run
 [Documentation](https://linktodocumentation)
 
 
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
-
-
 ## 🚀 About Me
-salut je suis apprenant dans youcode commen un develpeur full stack et je cherche à résoudre les problèmes dans le monde réel, j'ai la passion à apprendre et partager mes connaissances avec les autres, n'hésitez pas à me contacter sur mon email "hamza Laqraa@hotmail com".
+salut je suis apprenant dans youcode develpeur full stack et je cherche à résoudre les problèmes dans le monde réel, j'ai la passion à apprendre et partager mes connaissances avec les autres, n'hésitez pas à me contacter sur mon email ---> /*hamza.Laqraa@hotmail com*/
 
 
