@@ -4,7 +4,7 @@
    ****je suis Hamza LaQraa**** développeur full stack et je cherche à résoudre les problèmes dans le monde réel, j'ai la passion à apprendre et partager mes connaissances avec les autres, n'hésitez pas à me contacter sur mon email ---> /*hamza.Laqraa@hotmail.com*/
 
    
-> currently a student at @Youcode
+> currently Work at @Sofrecom
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamzacos&show_icons=true&theme=radical)
